@@ -49,6 +49,7 @@ ssh_to_master_node.sh
 data/raw/
 *.gz
 *.tar.gz
+data/sample
 
 # Spark logs
 *.log

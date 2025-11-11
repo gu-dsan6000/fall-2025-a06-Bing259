@@ -1,0 +1,11 @@
+timestamp,level,message
+17/03/29 10:03:26,INFO,"17/03/29 10:03:26 INFO python.PythonRunner: Times: total = 41, boot = -6841, init = 6882, finish = 0"
+17/03/29 10:03:25,INFO,17/03/29 10:03:25 INFO storage.BlockManager: Found block rdd_9_15 locally
+17/03/29 10:03:16,INFO,17/03/29 10:03:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 7
+17/03/29 10:04:44,INFO,17/03/29 10:04:44 INFO ExecutorRunnable: Preparing Local resources
+17/03/29 10:05:31,ERROR,17/03/29 10:05:31 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+17/03/29 10:05:18,ERROR,17/03/29 10:05:18 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
+17/03/29 10:04:44,INFO,17/03/29 10:04:44 INFO AMRMClientImpl: Received new token for : mesos-slave-20:49854
+17/03/29 10:02:54,INFO,17/03/29 10:02:54 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 6
+17/03/29 10:11:10,INFO,"17/03/29 10:11:10 INFO spark.CacheManager: Partition rdd_2_14 not found, computing it"
+17/03/29 10:05:18,INFO,17/03/29 10:05:18 INFO storage.BlockManager: BlockManager stopped
