@@ -1,11 +1,11 @@
 timestamp,level,message
-17/03/29 10:03:26,INFO,"17/03/29 10:03:26 INFO python.PythonRunner: Times: total = 41, boot = -6841, init = 6882, finish = 0"
-17/03/29 10:03:25,INFO,17/03/29 10:03:25 INFO storage.BlockManager: Found block rdd_9_15 locally
-17/03/29 10:03:16,INFO,17/03/29 10:03:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 7
-17/03/29 10:04:44,INFO,17/03/29 10:04:44 INFO ExecutorRunnable: Preparing Local resources
-17/03/29 10:05:31,ERROR,17/03/29 10:05:31 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
-17/03/29 10:05:18,ERROR,17/03/29 10:05:18 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.
-17/03/29 10:04:44,INFO,17/03/29 10:04:44 INFO AMRMClientImpl: Received new token for : mesos-slave-20:49854
-17/03/29 10:02:54,INFO,17/03/29 10:02:54 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 6
-17/03/29 10:11:10,INFO,"17/03/29 10:11:10 INFO spark.CacheManager: Partition rdd_2_14 not found, computing it"
-17/03/29 10:05:18,INFO,17/03/29 10:05:18 INFO storage.BlockManager: BlockManager stopped
+17/06/09 12:49:56,INFO,17/06/09 12:49:56 INFO storage.BlockManager: Removing RDD 13739
+17/06/07 15:30:58,INFO,"17/06/07 15:30:58 INFO python.PythonRunner: Times: total = 40, boot = -43, init = 82, finish = 1"
+17/06/09 11:00:24,INFO,"17/06/09 11:00:24 INFO python.PythonRunner: Times: total = 37, boot = 17, init = 20, finish = 0"
+17/06/08 16:52:32,INFO,17/06/08 16:52:32 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 94155
+17/06/09 20:33:16,INFO,17/06/09 20:33:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 7031
+17/03/29 19:57:55,INFO,"17/03/29 19:57:55 INFO storage.MemoryStore: Block broadcast_4_piece268 stored as bytes in memory (estimated size 4.0 MB, free 626.7 MB)"
+17/06/09 17:20:12,INFO,"17/06/09 17:20:12 INFO python.PythonRunner: Times: total = 38, boot = -16, init = 54, finish = 0"
+17/02/01 13:58:40,INFO,17/02/01 13:58:40 INFO executor.Executor: Running task 1548.0 in stage 113.0 (TID 21830)
+17/06/08 15:48:12,INFO,"17/06/08 15:48:12 INFO storage.MemoryStore: Block broadcast_145 stored as values in memory (estimated size 9.9 KB, free 2010.3 KB)"
+17/06/08 19:37:23,INFO,17/06/08 19:37:23 INFO executor.Executor: Finished task 36.0 in stage 4711.0 (TID 188517). 2087 bytes result sent to driver
